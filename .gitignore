@@ -3,3 +3,4 @@ mongodb
 .env
 .vscode
 Makefile
+node_modules
