@@ -13,6 +13,7 @@ import (
 	"github.com/joho/godotenv"
 	"github.com/lva100/movie-streaming-service/Server/MagicStreamMoviesServer/database"
 	"github.com/lva100/movie-streaming-service/Server/MagicStreamMoviesServer/routes"
+	"github.com/thinkerou/favicon"
 )
 
 func main() {
@@ -50,6 +51,7 @@ func main() {
 	config.AllowCredentials = true
 	config.MaxAge = 12 * time.Hour
 
+	router.Use(favicon.New("./favicon.ico"))
 	router.Use(cors.New(config))
 	router.Use(gin.Logger())
 
@@ -73,6 +75,8 @@ func main() {
 	router.POST("/addmovie", controllers.AddMovie(client))
 	router.POST("/register", controllers.RegisterUser(client))
 	router.POST("/login", controllers.LoginUser(client))*/
+
+	router.Static("/public", "./public")
 
 	routes.SetupUnProtectedRoutes(router, client)
 	routes.SetupProtectedRoutes(router, client)
