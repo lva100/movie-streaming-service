@@ -10,6 +10,7 @@ import Recommended from './components/recommended/Recommended.jsx'
 import Register from './components/register/Register.jsx'
 import RequiredAuth from './components/RequiredAuth.jsx'
 import Review from './components/review/Review.jsx'
+import StreamMovie from './components/stream/StreamMovie.jsx'
 import useAuth from './hooks/useAuth'
 
 function App() {
@@ -47,7 +48,7 @@ function App() {
 				<Route element={<RequiredAuth />}>
 					<Route path='/recommended' element={<Recommended />}></Route>
 					<Route path='/review/:imdb_id' element={<Review />}></Route>
-					{/* <Route path='/stream/:yt_id' element={<StreamMovie />}></Route> */}
+					<Route path='/stream/:yt_id' element={<StreamMovie />}></Route>
 				</Route>
 			</Routes>
 		</>
