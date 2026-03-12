@@ -2,7 +2,7 @@
 	{
 		"imdb_id": "tt0111161",
 		"title": "The Shawshank Redemption",
-		"poster_path": "https://image.tmdb.org/t/p/w300/2GgerXCbCMgvt2kLwWEmJWCSG65.jpg",
+		"poster_path": "/public/movie-posters/Shawshank_Redemption.webp",
 		"youtube_id": "PLl99DlL6b4",
 		"genre": [
 			{
@@ -19,7 +19,7 @@
 	{
 		"imdb_id": "tt7131622",
 		"title": "Once upon a time in Hollywood",
-		"poster_path": "https://image.tmdb.org/t/p/w300/wQKeS2JrsRF8XSfd9zqflrc5gad.jpg",
+		"poster_path": "/public/movie-posters/Once_in_hollywood.webp",
 		"youtube_id": "ELeMaP8EPAA",
 		"genre": [
 			{
@@ -40,7 +40,7 @@
 	{
 		"imdb_id": "tt0080339",
 		"title": "Airplane!",
-		"poster_path": "https://image.tmdb.org/t/p/w300/zOiB3p2WTTiwCFgTMnXuDGgzbTN.jpg",
+		"poster_path": "/public/movie-posters/Airplan.webp",
 		"youtube_id": "07pPmCfKi3U",
 		"genre": [
 			{
@@ -57,7 +57,7 @@
 	{
 		"imdb_id": "tt1119646",
 		"title": "The Hangover",
-		"poster_path": "https://image.tmdb.org/t/p/w300/c15rH9S5JN83UXqu9iM4TQsW6Rl.jpg",
+		"poster_path": "/public/movie-posters/The_Hangover.webp",
 		"youtube_id": "jj6wcUes1no",
 		"genre": [
 			{
@@ -74,7 +74,7 @@
 	{
 		"imdb_id": "tt0109040",
 		"title": "Ace Ventura: Pet Detective",
-		"poster_path": "https://image.tmdb.org/t/p/w300/dukxJWd72ffNWfqfFSVFFuym4RG.jpg",
+		"poster_path": "/public/movie-posters/Ace_Ventura.webp",
 		"youtube_id": "qjBb1CKLpzE",
 		"genre": [
 			{
@@ -91,7 +91,7 @@
 	{
 		"imdb_id": "tt0105695",
 		"title": "Unforgiven",
-		"poster_path": "https://image.tmdb.org/t/p/w300/7W0CsZBe5fkX29DvHBi5Ct1WqLe.jpg",
+		"poster_path": "/public/movie-posters/Unforgiven.webp",
 		"youtube_id": "6_UlfsdGiEc",
 		"genre": [
 			{
@@ -112,7 +112,7 @@
 	{
 		"imdb_id": "tt0060196",
 		"title": "The Good, The Bad, and the Ugly",
-		"poster_path": "https://image.tmdb.org/t/p/w300/e881nA7p982CHL5GjI1LICwHMd7.jpg",
+		"poster_path": "/public/movie-posters/Good_Bad_Ugly.webp",
 		"youtube_id": "WCN5JJY_wiA",
 		"genre": [
 			{
@@ -129,7 +129,7 @@
 	{
 		"imdb_id": "tt0903624",
 		"title": "The Hobbit: An Unexpected Journey",
-		"poster_path": "https://image.tmdb.org/t/p/w300/vdAGcr1F6wJPRryeODVAcy2mU4z.jpg",
+		"poster_path": "/public/movie-posters/Hobbit.webp",
 		"youtube_id": "9PSXjr1gbjc",
 		"genre": [
 			{
@@ -146,7 +146,7 @@
 	{
 		"imdb_id": "tt0241527",
 		"title": "Harry Potter and the Philosopher's Stone",
-		"poster_path": "https://image.tmdb.org/t/p/w300/e6JYlushXIXK85JGfDHEFHrrNYK.jpg",
+		"poster_path": "/public/movie-posters/Harry_Potter.webp",
 		"youtube_id": "VyHV0BRtdxo",
 		"genre": [
 			{
@@ -163,7 +163,7 @@
 	{
 		"imdb_id": "tt2267998",
 		"title": "Gone Girl",
-		"poster_path": "https://image.tmdb.org/t/p/w300/xpA0q0DJWKe7AY63pVPZbGLwuo5.jpg",
+		"poster_path": "/public/movie-posters/Gone_Girl.webp",
 		"youtube_id": "2-_-1nJf8Vg",
 		"genre": [
 			{
@@ -184,7 +184,7 @@
 	{
 		"imdb_id": "tt8946378",
 		"title": "Knives Out",
-		"poster_path": "https://image.tmdb.org/t/p/w300/hVcCOlHU0HmGBBQNmS9RlalBXGz.jpg",
+		"poster_path": "/public/movie-posters/Knives_out.webp",
 		"youtube_id": "qGqiHJTsRkQ",
 		"genre": [
 			{
@@ -209,7 +209,7 @@
 	{
 		"imdb_id": "tt0080684",
 		"title": "Star Wars: The Empire Strikes Back",
-		"poster_path": "https://image.tmdb.org/t/p/w300/1mh82R1qLKwdutQVGnpHItdwPCP.jpg",
+		"poster_path": "/public/movie-posters/SW_empire_strikes_back.webp",
 		"youtube_id": "JNwNXF9Y6kY",
 		"genre": [
 			{
@@ -230,7 +230,7 @@
 	{
 		"imdb_id": "tt0102975",
 		"title": "Star Trek: The Undiscovered Country",
-		"poster_path": "https://image.tmdb.org/t/p/w300/jukY1tFpuXgqrJLl1PvdOMarCvN.jpg",
+		"poster_path": "/public/movie-posters/StarTrek.webp",
 		"youtube_id": "RYA2q2Sm_Jo",
 		"genre": [
 			{
@@ -251,7 +251,7 @@
 	{
 		"imdb_id": "tt1297919",
 		"title": "Blitz",
-		"poster_path": "https://image.tmdb.org/t/p/w300/tI4fPu0LZ0FNdZdi6fvYGCRiuQs.jpg",
+		"poster_path": "/public/movie-posters/Blitz.webp",
 		"youtube_id": "mhO2WJ3MNRI",
 		"genre": [
 			{
@@ -276,7 +276,7 @@
 	{
 		"imdb_id": "tt0790724",
 		"title": "Jack Reacher",
-		"poster_path": "https://image.tmdb.org/t/p/w300/8sih1uieUopA9zrEO1meNhmm7aO.jpg",
+		"poster_path": "/public/movie-posters/JackReacher.webp",
 		"youtube_id": "A7FiWkyevqY",
 		"genre": [
 			{
